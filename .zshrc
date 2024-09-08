@@ -1,6 +1,6 @@
 export PATH="$HOME/bin:$PATH"
 
-function q () {
+function cmdshortener () {
     ~/bin/cmdshortener.py "$@"
 }
 
