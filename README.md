@@ -6,7 +6,13 @@
 
 </div>
 
-<hr> 
+----
+
+#### Dependenices: 
+   - You need to have the latest version of python downloaded on your device
+   - You can download python from the [offical website](https://www.oracle.com/uk/java/technologies/downloads/) for free
+
+----
 
 #### How to set up: 
 
@@ -33,7 +39,7 @@
     ```
 
 
-<hr> 
+----
 
 #### Here's all the things you can do now: 
 
