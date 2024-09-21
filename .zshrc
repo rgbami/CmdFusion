@@ -1,6 +1,6 @@
 export PATH="$HOME/bin:$PATH"
 
-function CmdFusion () {
+function cmdfusion () {
     ~/bin/CmdFusion.py "$@"
 }
 
