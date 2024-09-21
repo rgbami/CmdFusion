@@ -1,6 +1,6 @@
 export PATH="$HOME/bin:$PATH"
 
-function cmdshortener () {
-    ~/bin/cmdshortener.py "$@"
+function CmdFusion () {
+    ~/bin/CmdFusion.py "$@"
 }
 
